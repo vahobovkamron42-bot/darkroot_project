@@ -1,0 +1,5 @@
+{
+  "name": "DARKroot",
+  "description": "O'zbekiston uchun zamonaviy kiber xavfsizlik va firibgarlikka qarshi kurash platformasi.",
+  "requestFramePermissions": ["microphone"]
+}
