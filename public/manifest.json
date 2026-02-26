@@ -1,0 +1,21 @@
+{
+  "name": "CyberShield UZ",
+  "short_name": "CyberShield",
+  "description": "Kiber xavfsizlik va firibgarlikka qarshi kurash platformasi.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#38bdf8",
+  "icons": [
+    {
+      "src": "https://picsum.photos/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
